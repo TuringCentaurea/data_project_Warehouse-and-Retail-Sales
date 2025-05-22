@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "project-warehouse-and-retail",
+  "private_key_id": "45c820ac941bb81e25a86a986a4732e2df990694",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCgjmL1dqGHLjkt\nUdFKGCGRoWp7k62wdtUOtODyj7C/D5PLpYB0QZbnEQ/xIghkjSVaY3Z26VtFx+al\nxtUgSVTumi1vGHY0oL0MB4fxtiRE4HQehs4pLGn0FhCsBS45DS/CQaS+lCnm94Jw\nAFtnmolUK8Djg1LUI6l/MWMvTl4v2M4S3GGHFIA3ehnElRecCW/50twvwgo+kHLL\ng0jHJE742uurK4HT6HXAOW6OQqmpcJheomcZIHTEPvk9D+gaOhK2NxUKlnxaBZ62\n/LVnIhopjQKGK0wqezowmqtXMNZah/wPL7jdpEpFeJ1g+4WIiJ+Clw45nyCRu89U\nWClou45rAgMBAAECggEAGUMzfJZCcIU24j5zP6/P/wdBZxlY+nZFgXoMwk3BTIa/\nGrYQofo8rAsqEXxpNVJkyWCeCrQetDpHEdgualVE2QLcWZR6lj72ZUv9ZBcPL4vg\n6XliOztC8/DRhbzjmtQhgB9uXxLsDEHvPaqTYe1VugSPu0dLWJgV5YQCrGEDKTmO\nstapTojBsN3tr63s2TJ3iH2DQl4oPXUrPO58IJOq8uiZ0gLcfOTi4FPWL3rZbrfq\niPBL+utMqy4neZvzTIn0ZKdnScJ6Tunsz/31jGbMPnCMOCJcOh46ScXFvhGGKjPe\nVp81v2K9bPylM6i0HZXJ5ktbb01XP1XiKGbIhwLssQKBgQDY13NhY6P9FGjbwrpk\nNAjuvku711jtIn5/TK7fx8l2Ptk6V+UJo3LaJhvTHOuO8+Is3/SYn8yu4jQfDTSW\nN3nJPNfz951797UtxNT4qbCKHqlhR5Xzl+/vdTEEr4Wg0HvOsFSsdT1yh/S0oHaA\nHZ+PVUw8w7PqwA0jiKlaYt0MsQKBgQC9jN8SoxnIHd4VRgxSpgvdfZaZXKZNd7Ey\nIfedqfrPsTVwy8aCQhOThSDeCdpT4aaaLedoncw4v6AxRPxA7hHN6tStSEVzdWuR\n+pB/SG9XXhTlnl0ZI4hGFeOVMJXCCRbAhIglUoOQCaEqeI1E2UjL0i7swK/5esfD\nC9ajrp2j2wKBgEJh2rmixk4w1FUKjQMmBuIHsamkqF2YJL+V2yc4w00Gunuo8r37\noqpz5iq//MD7mm8AdKHQsdmL+EbVRRcDjq3ziWzvje+oinejfUtOr3PpJRNZ1ecH\nyXU2HDaCAVeU24IP6ywMjC4mvtwZD43zA6jehQNJKiggeSU6rhW0lFVRAoGAT7X1\n+ThtlyI4SmnytK7vPm2Z71Ru+xTih1qRbtQUjVLQTmbjS9PNt7O8ZqNuFOhHz36O\nWghB4Xt0OkPwcL2s7xNZ7KT/z9YJLpJYQa6MZAlEcGtwaynuHMsHsa2EzNxVnRAe\n0NMqUGA8Tkfz4IgffNcetKEzX46qgvNvh9XepRECgYAm2Hv5q/WWE87TINddEr3J\nQ83BWWaYdcx4BpqdZrVb/Bj7VdSUL079ttysEjQJHb8OAsXYOGBWnxB1CqAZFFBW\nKw32CxbPG/Zd1zUqWJ+9Y2pOCIdZ6SoF2oWk8rGAQ+yFbgERB1GF/TW5FamPkEw+\npP5vSnm3G0bmcH4RLwYOTg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "project-warehouse-and-retail@project-warehouse-and-retail.iam.gserviceaccount.com",
+  "client_id": "114129428340750101816",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/project-warehouse-and-retail%40project-warehouse-and-retail.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
